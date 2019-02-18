@@ -1,0 +1,19 @@
+//<div class="ident" id="e">What is your name</div>//
+//<div class="ident" id="ee">What is your Age</div>
+///
+
+<div class="ident" id="eee">How far do you want to go?</div>
+#e.ident{
+	
+	background-color:blue;
+}
+
+#ee.ident{
+	
+	background-color:yellow;
+	
+	
+}
+#eee.ident{background-color:red;
+
+}
